@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psr:home|Door43 (psr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psr|d43-psr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psr/archive/master.zip|d43-psr.zip]]
+
+**Recent Changes**
+{{changes>ns = psr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psr|Ethnologue data]]
+
